@@ -1,0 +1,4 @@
+,name,category_code,number_of_employees,founded_year,offices
+0,Tiny Speck,games_video,45,2009,[{'city': 'Vancouver'}]
+1,Social Gaming Network,games_video,100,2011,"[{'city': 'Los Angeles'}, {'city': 'Beverly Hills'}]"
+2,OneScreen,games_video,60,2009,[{'city': 'Irvine'}]
