@@ -1,4 +1,4 @@
-,name,category_code,number_of_employees,founded_year,offices,coordinates,latitude,longitude
-0,Tiny Speck,games_video,45,2009,[{'city': 'Vancouver'}],"[49.3023, -123.107]",49.3023,-123.107
-1,Social Gaming Network,games_video,100,2011,"[{'city': 'Los Angeles'}, {'city': 'Beverly Hills'}]","[34.069722, -118.405556]",34.069722,-118.405556
-2,OneScreen,games_video,60,2009,[{'city': 'Irvine'}],"[33.669445, -117.823059]",33.669445,-117.823059
+,name,category_code,number_of_employees,founded_year,offices,latitude,longitude
+0,Tiny Speck,games_video,45,2009,[{'city': 'Vancouver'}],49.276345,-123.117337
+1,Social Gaming Network,games_video,100,2011,"[{'city': 'Los Angeles'}, {'city': 'Beverly Hills'}]",34.069722,-118.405556
+2,OneScreen,games_video,60,2009,[{'city': 'Irvine'}],33.669445,-117.823059
